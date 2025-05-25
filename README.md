@@ -28,4 +28,4 @@
     - [ ] Energy meter with IoT monitoring 
 ---
 ## Tools I know...
-![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png)  <a href="https://www.flaticon.com/free-icons/figma" title="figma icons">Figma icons created by Freepik - Flaticon</a>
+![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png)  
