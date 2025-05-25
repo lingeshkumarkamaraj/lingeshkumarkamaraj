@@ -14,17 +14,17 @@
     [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/this__is__lk?utm_source=qr)
 
 - 📡 An Antenna Designer
-- 🦾 Embedded projects to do <br>
-    [x] Home automation 
-    [x] Garbage segregator and bin level indication 
-    [ ] Smart irrigation system 
-    [ ] Weather monitoring station 
-    [ ] Smart blink stick for visually impaired 
-    [ ] Smart door lick with RFID 
-    [ ] Industrial Temperature controller 
-    [ ] Automatic PET feeder 
-    [ ] Voice controlled robot 
-    [ ] Gesture controlled Robot 
-    [ ] Energy meter with IoT monitoring 
+- 🦾 Embedded projects to do 
+    - [x] Home automation 
+    - [x] Garbage segregator and bin level indication 
+    - [ ] Smart irrigation system 
+    - [ ] Weather monitoring station 
+    - [ ] Smart blink stick for visually impaired 
+    - [ ] Smart door lick with RFID 
+    - [ ] Industrial Temperature controller 
+    - [ ] Automatic PET feeder 
+    - [ ] Voice controlled robot 
+    - [ ] Gesture controlled Robot 
+    - [ ] Energy meter with IoT monitoring 
 ---
 ## Tools I know...
