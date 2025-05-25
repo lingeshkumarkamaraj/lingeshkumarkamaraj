@@ -27,5 +27,19 @@
     - [ ] Gesture controlled Robot 
     - [ ] Energy meter with IoT monitoring 
 ---
-## Tools I know...
-![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/>
+## Tools & Technologies...
+![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/java-coffee-cup-logo--v1.png" alt="java-coffee-cup-logo--v1"/> <br>
+---
+## Soft Skills...
+- <img width="25" height="25" src="https://img.icons8.com/color/48/teacher.png" alt="teacher"/> &nbsp; Teaching or instructing 
+- <img width="25" height="25" src="https://img.icons8.com/parakeet/48/conference.png" alt="conference"/> &nbsp; Leading a team
+- <img width="25" height="25" src="https://img.icons8.com/stencil/32/helping-hand.png" alt="helping-hand"/> &nbsp; Being reliable
+- <img width="25" height="25" src="https://img.icons8.com/fluency/48/creative-commons-by.png" alt="creative-commons-by"/> &nbsp; Taking initiative
+- <img width="25" height="25" src="https://img.icons8.com/color/48/think-do.png" alt="think-do"/> &nbsp; Thinking creatively
+---
+## My Streak...
+[![LK's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lingeshkumarkamaraj&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/lingeshkumarkamaraj/github-readme-stats#gh-dark-mode-only)
+[![LK's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lingeshkumarkamaraj&show_icons=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/lingeshkumarkamaraj/github-readme-stats#gh-light-mode-only)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lingeshkumarkamaraj&theme=dark&border#gh-dark-mode-only_radius=5)](https://git.io/streak-stats#gh-dark-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lingeshkumarkamaraj#gh-light-mode-only_radius=5)](https://git.io/streak-stats#gh-light-mode-only)
