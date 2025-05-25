@@ -16,8 +16,8 @@
 
 - 📡 An Antenna Designer
 - 🦾 Embedded projects to do 
-    - [x] Home automation 
-    - [x] Garbage segregator and bin level indication 
+    - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
+    - [x] [Garbage segregator and bin level indication](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/README.md)
     - [ ] Smart irrigation system 
     - [ ] Weather monitoring station 
     - [ ] Smart blink stick for visually impaired 
