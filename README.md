@@ -15,16 +15,16 @@
 
 - 📡 An Antenna Designer
 - 🦾 Embedded projects to do <br>
-    [x] Home automation <br>
-    [x] Garbage segregator and bin level indication <br>
-    [ ] Smart irrigation system <br>
-    [ ] Weather monitoring station <br>
-    [ ] Smart blink stick for visually impaired <br>
-    [ ] Smart door lick with RFID <br>
-    [ ] Industrial Temperature controller <br>
-    [ ] Automatic PET feeder <br>
-    [ ] Voice controlled robot <br>
-    [ ] Gesture controlled Robot <br>
-    [ ] Energy meter with IoT monitoring <br>
+    [x] Home automation 
+    [x] Garbage segregator and bin level indication 
+    [ ] Smart irrigation system 
+    [ ] Weather monitoring station 
+    [ ] Smart blink stick for visually impaired 
+    [ ] Smart door lick with RFID 
+    [ ] Industrial Temperature controller 
+    [ ] Automatic PET feeder 
+    [ ] Voice controlled robot 
+    [ ] Gesture controlled Robot 
+    [ ] Energy meter with IoT monitoring 
 ---
 ## Tools I know...
