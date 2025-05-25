@@ -28,4 +28,4 @@
     - [ ] Energy meter with IoT monitoring 
 ---
 ## Tools I know...
-![Image]([https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/ce87186a22e405887af0b659380050630c4e14ec/CST-STUDIO-SUITE.png](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png))
+![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png)
