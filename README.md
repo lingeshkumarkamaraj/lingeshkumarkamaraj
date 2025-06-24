@@ -42,8 +42,7 @@
 [![LK's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lingeshkumarkamaraj&show_icons=true&theme=vision-friendly-dark#gh-dark-mode-only)](https://github.com/lingeshkumarkamaraj/github-readme-stats#gh-dark-mode-only)
 [![LK's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lingeshkumarkamaraj&show_icons=true&theme=gruvbox_light#gh-light-mode-only)](https://github.com/lingeshkumarkamaraj/github-readme-stats#gh-light-mode-only)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lingeshkumarkamaraj&theme=dark#gh-dark-mode-only radius=5)](https://git.io/streak-stats#gh-dark-mode-only)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lingeshkumarkamaraj#gh-light-mode-only_radius=5)](https://git.io/streak-stats#gh-light-mode-only)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=lingeshkumarkamaraj&theme=apprentice)](https://git.io/streak-stats)
 
 [![Lingesh Kumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lingeshkumarkamaraj&bg_color=000000&color=ffffff&line=ffb000&point=332300&area=true&hide_border=true#gh-dark-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-dark-mode-only)
 [![Lingesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lingeshkumarkamaraj&bg_color=ffffff&color=000000&line=c08931&point=edd9a3&area=true&hide_border=true#gh-light-mode-only)](https://github.com/ashutosh00710/github-readme-activity-graph#gh-light-mode-only)
