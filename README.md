@@ -18,7 +18,7 @@
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
     - [x] [Garbage segregator and bin level indication](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/README.md)
-    - [ ] Smart irrigation system 
+    - [x] [Smart irrigation system](https://github.com/lingeshkumarkamaraj/Smart-Irrigation-System/blob/main/README.md)
     - [ ] Weather monitoring station 
     - [ ] Smart blink stick for visually impaired 
     - [ ] Smart door lick with RFID 
