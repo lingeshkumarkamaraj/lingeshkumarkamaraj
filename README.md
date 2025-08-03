@@ -1,6 +1,6 @@
 # Hi 👋,  This is **Lingesh Kumar**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=14&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Electronics+and+Communication+Engineering+Student)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=&size=14&pause=1000&color=FFFFFF&repeat=false&width=435&lines=Electronics+and+Communication+Engineer)](https://git.io/typing-svg)
 <img align="right" width="500" height="500" src="https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/printed-circuit-board-concept-illustration.png" alt="Electronics"/>
 
 - 😎 Here is my resume
