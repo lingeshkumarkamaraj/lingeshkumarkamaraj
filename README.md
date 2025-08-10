@@ -30,7 +30,7 @@
     - [ ] Weather monitoring station 
     - [ ] Smart blink stick for visually impaired 
     - [ ] Smart door lick with RFID 
-    - [ ] Industrial Temperature controller 
+    - [x] Industrial Temperature controller 
     - [ ] Automatic PET feeder 
     - [ ] Voice controlled robot 
     - [ ] Gesture controlled Robot 
