@@ -17,11 +17,11 @@
 - 📡 An Antenna Designer
        
   My Projects...
-    - [x] [Microstrip Patch antenna](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna)
-    - [x] [Halfwave Dipole antenna](https://github.com/lingeshkumarkamaraj/Halfwave-Dipole-Antenna)
-    - [x] [Rectangular Slot antenna](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna)
-    - [x] [Pyramidal Horn antenna](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna)
-    - [x] [Circular Patch antenna](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna)
+    - [x] [Microstrip Patch antenna](https://github.com/lingeshkumarkamaraj/Microstrip-Patch-antenna/blob/main/README.md)
+    - [x] [Halfwave Dipole antenna](https://github.com/lingeshkumarkamaraj/Halfwave-Dipole-Antenna/blob/main/README.md)
+    - [x] [Rectangular Slot antenna](https://github.com/lingeshkumarkamaraj/Rectangular-slot-antenna/blob/main/README.md)
+    - [x] [Pyramidal Horn antenna](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/README.md)
+    - [x] [Circular Patch antenna](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
