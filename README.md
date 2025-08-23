@@ -23,13 +23,14 @@
     - [x] [Pyramidal Horn antenna](https://github.com/lingeshkumarkamaraj/Pyramidal-Horn-antenna/blob/main/README.md)
     - [x] [Circular Patch antenna](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna/blob/main/README.md)
     - [x] [Folded Dipole antenna](https://github.com/lingeshkumarkamaraj/Folded-Dipole-antenna/blob/main/README.md)
+    - [x] [Annuler Slot antenna](https://github.com/lingeshkumarkamaraj/Annuler-Slot-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
     - [x] [Garbage segregator and bin level indication](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/README.md)
     - [x] [Smart irrigation system](https://github.com/lingeshkumarkamaraj/Smart-Irrigation-System/blob/main/README.md)
     - [ ] Weather monitoring station 
-    - [ ] Smart blink stick for visually impaired 
+    - [x] [Smart blink stick for visually impaired](https://github.com/lingeshkumarkamaraj/Blink-Stick-for-Visually-Impaired/blob/main/README.md) 
     - [ ] Smart door lock with RFID 
     - [x] [Industrial Temperature controller](https://github.com/lingeshkumarkamaraj/Industrial-Temperature-Controller/blob/main/README.md) 
     - [x] [Automatic PET feeder](https://github.com/lingeshkumarkamaraj/Automatic-Pet-Feeder/blob/main/README.md) 
