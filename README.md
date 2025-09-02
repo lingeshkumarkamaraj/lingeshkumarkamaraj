@@ -24,7 +24,7 @@
     - [x] [Circular Patch antenna](https://github.com/lingeshkumarkamaraj/Circular-Patch-Antenna/blob/main/README.md)
     - [x] [Folded Dipole antenna](https://github.com/lingeshkumarkamaraj/Folded-Dipole-antenna/blob/main/README.md)
     - [x] [Annuler Slot antenna](https://github.com/lingeshkumarkamaraj/Annuler-Slot-Antenna/blob/main/README.md)
-    - [x] [Coaxial fed Patch antenna](https://github.com/lingeshkumarkamaraj/Coaxial-fed-Patch-Antenna)
+    - [x] [Coaxial fed Patch antenna](https://github.com/lingeshkumarkamaraj/Coaxial-fed-Patch-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
@@ -37,7 +37,7 @@
     - [x] [Automatic PET feeder](https://github.com/lingeshkumarkamaraj/Automatic-Pet-Feeder/blob/main/README.md) 
     - [ ] Voice controlled robot 
     - [ ] Gesture controlled Robot 
-    - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter)
+    - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter/blob/main/README.md)
 ---
 ## Tools & Technologies...
 ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
