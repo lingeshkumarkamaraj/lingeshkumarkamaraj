@@ -25,6 +25,7 @@
     - [x] [Folded Dipole antenna](https://github.com/lingeshkumarkamaraj/Folded-Dipole-antenna/blob/main/README.md)
     - [x] [Annuler Slot antenna](https://github.com/lingeshkumarkamaraj/Annuler-Slot-Antenna/blob/main/README.md)
     - [x] [Coaxial fed Patch antenna](https://github.com/lingeshkumarkamaraj/Coaxial-fed-Patch-Antenna/blob/main/README.md)
+    - [x] [Conical Horn antenna](https://github.com/lingeshkumarkamaraj/Conical-Horn-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
@@ -32,11 +33,10 @@
     - [x] [Smart irrigation system](https://github.com/lingeshkumarkamaraj/Smart-Irrigation-System/blob/main/README.md)
     - [ ] Weather monitoring station 
     - [x] [Smart blink stick for visually impaired](https://github.com/lingeshkumarkamaraj/Blink-Stick-for-Visually-Impaired/blob/main/README.md) 
-    - [ ] Smart door lock with RFID 
     - [x] [Industrial Temperature controller](https://github.com/lingeshkumarkamaraj/Industrial-Temperature-Controller/blob/main/README.md) 
     - [x] [Automatic PET feeder](https://github.com/lingeshkumarkamaraj/Automatic-Pet-Feeder/blob/main/README.md) 
-    - [ ] Voice controlled robot 
-    - [ ] Gesture controlled Robot 
+    - [x] [Automatic Room AC Control](https://github.com/lingeshkumarkamaraj/Automatic-Room-Air-Conditioning/blob/main/README.md)
+    - [ ] Auto Cutoff Charger by Time 
     - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter/blob/main/README.md)
 ---
 ## Tools & Technologies...
