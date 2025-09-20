@@ -26,6 +26,7 @@
     - [x] [Annuler Slot antenna](https://github.com/lingeshkumarkamaraj/Annuler-Slot-Antenna/blob/main/README.md)
     - [x] [Coaxial fed Patch antenna](https://github.com/lingeshkumarkamaraj/Coaxial-fed-Patch-Antenna/blob/main/README.md)
     - [x] [Conical Horn antenna](https://github.com/lingeshkumarkamaraj/Conical-Horn-Antenna/blob/main/README.md)
+    - [ ] [Triangular Patch Antenna](https://github.com/lingeshkumarkamaraj/Triangular-Patch-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
@@ -36,7 +37,7 @@
     - [x] [Industrial Temperature controller](https://github.com/lingeshkumarkamaraj/Industrial-Temperature-Controller/blob/main/README.md) 
     - [x] [Automatic PET feeder](https://github.com/lingeshkumarkamaraj/Automatic-Pet-Feeder/blob/main/README.md) 
     - [x] [Automatic Room AC Control](https://github.com/lingeshkumarkamaraj/Automatic-Room-Air-Conditioning/blob/main/README.md)
-    - [ ] Auto Cutoff Charger by Time 
+    - [ ] [Auto Cutoff Charger by Time](https://github.com/lingeshkumarkamaraj/Auto-Cut-off-Charger-By-Time/blob/main/README.md)
     - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter/blob/main/README.md)
 ---
 ## Tools & Technologies...
