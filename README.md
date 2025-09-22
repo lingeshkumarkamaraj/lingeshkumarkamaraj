@@ -26,7 +26,7 @@
     - [x] [Annuler Slot antenna](https://github.com/lingeshkumarkamaraj/Annuler-Slot-Antenna/blob/main/README.md)
     - [x] [Coaxial fed Patch antenna](https://github.com/lingeshkumarkamaraj/Coaxial-fed-Patch-Antenna/blob/main/README.md)
     - [x] [Conical Horn antenna](https://github.com/lingeshkumarkamaraj/Conical-Horn-Antenna/blob/main/README.md)
-    - [ ] [Triangular Patch Antenna](https://github.com/lingeshkumarkamaraj/Triangular-Patch-Antenna/blob/main/README.md)
+    - [x] [Triangular Patch Antenna](https://github.com/lingeshkumarkamaraj/Triangular-Patch-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do 
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
