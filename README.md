@@ -37,7 +37,7 @@
     - [x] [Industrial Temperature controller](https://github.com/lingeshkumarkamaraj/Industrial-Temperature-Controller/blob/main/README.md) 
     - [x] [Automatic PET feeder](https://github.com/lingeshkumarkamaraj/Automatic-Pet-Feeder/blob/main/README.md) 
     - [x] [Automatic Room AC Control](https://github.com/lingeshkumarkamaraj/Automatic-Room-Air-Conditioning/blob/main/README.md)
-    - [ ] [Auto Cutoff Charger by Time](https://github.com/lingeshkumarkamaraj/Auto-Cut-off-Charger-By-Time/blob/main/README.md)
+    - [x] [Auto Cutoff Charger by Time](https://github.com/lingeshkumarkamaraj/Auto-Cut-off-Charger-By-Time/blob/main/README.md)
     - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter/blob/main/README.md)
 ---
 ## Tools & Technologies...
