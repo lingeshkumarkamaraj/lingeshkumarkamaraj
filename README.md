@@ -40,6 +40,7 @@
     - [x] [Automatic Room AC Control](https://github.com/lingeshkumarkamaraj/Automatic-Room-Air-Conditioning/blob/main/README.md)
     - [x] [Auto Cutoff Charger by Time](https://github.com/lingeshkumarkamaraj/Auto-Cut-off-Charger-By-Time/blob/main/README.md)
     - [x] [Volt and Amp meter](https://github.com/lingeshkumarkamaraj/Volt-and-Amp-Meter/blob/main/README.md)
+    - [ ] [Auto Solar Panel Cleaner](https://github.com/lingeshkumarkamaraj/Auto-Solar-Panel-Cleaner/blob/main/README.md)
 ---
 ## Tools & Technologies...
 ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/CST.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/resize-174815513114553816581965692.png) &nbsp;&nbsp; ![Image](https://github.com/lingeshkumarkamaraj/lingeshkumarkamaraj/blob/main/proteus.png) &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/arduino.png" alt="arduino"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/fluency/48/c-programming.png" alt="c-programming"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png" alt="microsoft-excel-2019--v1"/> &nbsp;&nbsp; <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/> <br>
