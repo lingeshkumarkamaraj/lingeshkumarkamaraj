@@ -28,8 +28,16 @@
     - [x] [Conical Horn antenna](https://github.com/lingeshkumarkamaraj/Conical-Horn-Antenna/blob/main/README.md)
     - [x] [Triangular Patch Antenna](https://github.com/lingeshkumarkamaraj/Triangular-Patch-Antenna/blob/main/README.md)
     - [x] [Printed Dipole Antenna](https://github.com/lingeshkumarkamaraj/Printed-Dipole-antenna/blob/main/README.md)
+    - [x] [Vivaldi Antenna](https://github.com/lingeshkumarkamaraj/Vivaldi-Antenna/blob/main/README.md)
+    - [ ] Annuler Ring Antenna
              
-- 🦾 Embedded projects to do 
+- 🦾 Embedded projects to do
+  
+  - By Using PIC Microcontroller :
+    - [ ] LED Blink Using Timer0
+
+  - By Using Arduino and NodeMCU Microcontroller :
+    
     - [x] [Home automation](https://github.com/lingeshkumarkamaraj/Home-Automation/blob/main/README.md)
     - [x] [Garbage segregator and bin level indication](https://github.com/lingeshkumarkamaraj/Garbage-segregation-and-bin-level-indication/blob/main/README.md)
     - [x] [Smart irrigation system](https://github.com/lingeshkumarkamaraj/Smart-Irrigation-System/blob/main/README.md)
