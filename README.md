@@ -34,7 +34,7 @@
 - 🦾 Embedded projects to do
   
   - By Using PIC Microcontroller :
-    - [ ] LED Blink Using Timer0
+    - [x] [LED Blink Using Timer0](https://github.com/lingeshkumarkamaraj/LED-Blink-Using-Timer0/blob/main/README.md)
 
   - By Using Arduino and NodeMCU Microcontroller :
     
