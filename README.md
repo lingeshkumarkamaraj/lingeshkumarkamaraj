@@ -29,7 +29,7 @@
     - [x] [Triangular Patch Antenna](https://github.com/lingeshkumarkamaraj/Triangular-Patch-Antenna/blob/main/README.md)
     - [x] [Printed Dipole Antenna](https://github.com/lingeshkumarkamaraj/Printed-Dipole-antenna/blob/main/README.md)
     - [x] [Vivaldi Antenna](https://github.com/lingeshkumarkamaraj/Vivaldi-Antenna/blob/main/README.md)
-    - [ ] Annuler Ring Antenna
+    - [x] [Annular Ring Antenna](https://github.com/lingeshkumarkamaraj/Annular-Ring-Antenna/blob/main/README.md)
              
 - 🦾 Embedded projects to do
   
